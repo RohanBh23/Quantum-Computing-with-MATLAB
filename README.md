@@ -1,1 +1,1 @@
-# Shor-s-Algorithm-MATLAB
+Quantum Computing with MATLAB (Implementation of Shor's Algorithm
